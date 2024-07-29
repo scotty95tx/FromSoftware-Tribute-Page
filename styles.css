@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    background-color: #BCD0C7;
+    font-family: "Exo 2", sans-serif;
+    padding-top: 30px;
+  }
+  
+  body {
+    background-color: #ACC9A6;
+    border-radius: 25px;
+    margin: 0 auto;
+    width: 50%;
+  }
+  
+  header, main {
+    margin: 20px auto;
+    width: 80%;
+    padding: 10px;
+  }
+  
+  ul li {
+    margin-bottom: 20px;
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
